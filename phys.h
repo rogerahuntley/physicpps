@@ -1,5 +1,5 @@
-#ifndef PHYCOL_H
-#define PHYCOL_H
+#ifndef PHYCPPS_H
+#define PHYCPPS_H
 
 // this is going to be a seperate library for physics and collision code
 
@@ -11,4 +11,4 @@ namespace physicpps {
     
 }
 
-#endif // PHYS_H
+#endif // PHYCPPS_H
